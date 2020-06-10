@@ -1,2 +1,2 @@
-# mysql_log
-mysql 기록
+# sql_log
+sql 기록
